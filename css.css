@@ -1,0 +1,31 @@
+#body{
+    width:100%;
+    
+    margin: 1px solid black;
+    background: white;
+    
+}
+
+#box{
+    margin: 0 0 0 400px;
+    border: 2px solid black;
+    width: 400px;
+    padding: 50px 50px;
+    shape-margin: 5px;
+    box-shadow:  3px 3px 3px 3px;
+}
+
+.h2{
+    text-align: center;
+    
+}
+
+.p{
+    text-align: center;
+    
+}
+
+.link{
+    margin: 0 0 0 120px;
+    
+}
